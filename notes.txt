@@ -1,0 +1,47 @@
+normalize.css - A modern, HTML5-ready alternative to CSS resets
+    - makes browsers render all elements more consistently and in line with modern standards
+    - precisely targets onlt the styles that need normalizing
+    - https://necolas.github.io/normalize.css/
+    - downloaded in vendors folder
+    
+Responsive Web Design
+    - Design that works well on any device, any resolution.
+    - works well - easy to read and navigate without having to zoom in and out.
+    - Ingredients of responsive design
+        1) Fluid grid: all layout elements are sized in relative units, such as percentages, instead of absolute units like pixels.
+        1) Fluid grid: all layout elements are sized in relative units, such as percentages, instead of absolute units like pixels.
+        2) Flexible images: are also sized in relative units.
+        3) Media queries: allow us to specity different CSS style rules for different browser widths
+    - respond.js - script that enables the browser to understand and execute media queries which we need for responsive webdesign
+    
+What is jQuery
+    - jQuery is the most popular JavaScript library in the world
+    - Makes it incredibly easy to:
+        -select and manipulate HTML elements
+        -create animations
+        -develop Ajax applications
+        
+Search Engine Optimization (SEO)
+    - techniques that improve and promote a website to increase the number of visitors the site receives from search engines
+        1. Meta Description Tag
+            <meta name"description" content="This is the swankiest website in the world and to ask for an introduction is a goddamn insult. Bow down before your master in less than 160 characters."/>
+        2. HTML Validation
+        3. Content is King
+        4. Keywords
+            - place keywords strategically along your content
+            - don't overuse 
+        5. Backlinks
+            - like letters of recommendation for your website
+        
+6. 
+    1. chose and buy a domain name www.omnifood.com
+        - godaddy.com the best
+    2. buy web hosting
+        - folder on the internet where we put all our files
+    3. upload our website.
+    
+7. Site Maintenance
+    - keep track of your site's success
+    - monitor your user's behavior
+    - HOW: Using Google Analytics!
+    - Make adjustments to the website in order to make it better and better
